@@ -1,6 +1,6 @@
 👋 Hi, I am Nomcebo Mngadi
 
-Aspiring Data Analyst 
+Business Data Analyst 
 Turning data into Insights
 
 Welcome to my data analytics portfolio
@@ -24,7 +24,17 @@ About Me
   - Used SQL functions to clean and standardize a messy dataset.
     (https://github.com/nmngadiK/Projects/blob/main/Data%20Cleaning.sql)
 
+Deloitte's Data Analysics Job Simulation
+
+Tools: Excel, Tableau 
+
+- It was incredibly useful to understand what it might be like to be part of THE team at Deloitte. I was able to analyse data and create a dashboard. I practised using Tableau AND Excel and built my data analysis skills in a real-world context.Doing this program confirmed that I really enjoy working on technology problems
+for clients.
+
+(https://www.theforage.com/completioncertificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_eurH87dw74X9LtXoj_1764785380576_completion_certificate.pdf) 
+
   Certifications
+  - Data Camp Introduction to SQL
   - Cisco Introduction to Data Sciences
   - Cisco Introduction to Cybersecurity
   - Excel:Microsoft (Coursera)
