@@ -14,21 +14,21 @@ About Me
 - Certified in Data Analysis 
 (Cisco Introduction to Data Science, Introduction to Cybersecurity, Coursera Execl)
 - Currently learning Advanced SQL, Tableau and Power Bi.
-- Open to entry-level data analyst, internship or data associate roles.
+- Open to internships, graduate programs, entry-level data/business/supply chain analyst or data associate roles.
 
   Featured Projects
 
   Data Cleaning with SQL
 
   Tools: MySQL
-  - Used SQL functions to clean and standardize a messy dataset.
+  - Used SQL functions to clean and standardize a messy dataset.Identify any gaps, duplicates or inconsistencies in data. 
     (https://github.com/nmngadiK/Projects/blob/main/Data%20Cleaning.sql)
 
 Deloitte's Data Analysics Job Simulation
 
 Tools: Excel, Tableau 
 
-- It was incredibly useful to understand what it might be like to be part of THE team at Deloitte. I was able to analyse data and create a dashboard. I practised using Tableau AND Excel and built my data analysis skills in a real-world context.Doing this program confirmed that I really enjoy working on technology problems
+- It was incredibly useful to understand what it might be like to be part of THE team at Deloitte. I was able to analyse data and create a dashboard. I practised using Tableau AND Excel and built my data analysis skills in a real-world context.Clean, organize and visualize data. Doing this program confirmed that I really enjoy working on technology problems
 for clients.
 
 (https://www.theforage.com/completioncertificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_eurH87dw74X9LtXoj_1764785380576_completion_certificate.pdf) 
@@ -41,6 +41,7 @@ for clients.
   - Business Analysis Foundation (IIBA: LinkedIn Learning)
 
   Contact Me
+  Phone Number: 0682701655 /0639232766 
   Email: nmngadik@gmail.com
   LinkedIn: https://www.linkedin.com/in/nomcebo-m-250173210?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
   
