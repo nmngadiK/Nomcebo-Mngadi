@@ -1,6 +1,6 @@
 👋 Hi, I am Nomcebo Mngadi
 
-Business Data Analyst 
+Data Analyst 
 Turning data into Insights
 
 Welcome to my data analytics portfolio
@@ -16,9 +16,18 @@ About Me
 - Currently learning Advanced SQL, Tableau and Power Bi.
 - Open to internships, graduate programs, entry-level data/business/supply chain analyst or data associate roles.
 
-  Featured Projects
+Featured Projects:
 
-  Data Cleaning with SQL
+Excel Bike Sales Dashboard
+Tool: Microsoft Excel
+
+* Collected, organised, and input structured and unstructured datasets into SQL databases and Excel.
+* Applied cleansing techniques to remove duplicates, corrected formats and correct errors.
+* Conducted reconciliation checks to identify and resolve discrepancies.
+* Generated reports in Excel highlighting data quality metrics and project outcomes.
+(https://1drv.ms/x/c/2e05564730148638/IQD5t9OJeTMnRJmaye3vY8JcAd1g4s5ZiAhwfP1UMFdpHD8?e=FbVZqw&nav=MTVfezkxRjM3MUUzLTI4MzYtNERENS1CQ0I2LTcwN0ZBNDgyRjQzRn0) 
+
+Data Cleaning with SQL 
 
   Tools: MySQL
   - Used SQL functions to clean and standardize a messy dataset.Identify any gaps, duplicates or inconsistencies in data. 
