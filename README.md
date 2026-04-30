@@ -20,6 +20,7 @@ About Me
 Featured Projects:
 
 Excel Bike Sales Dashboard
+
 Tool: Microsoft Excel
 
 * Collected, organised, and input structured and unstructured datasets into Excel.
@@ -30,15 +31,16 @@ Tool: Microsoft Excel
 
 Data Cleaning with SQL 
 
-  Tools: MySQL
-  - Used SQL functions to clean and standardize a messy dataset.Identify any gaps, duplicates or inconsistencies in data. 
+Tool: MySQL
+
+* Used SQL functions to clean and standardize a messy dataset.Identify any gaps, duplicates or inconsistencies in data. 
     (https://github.com/nmngadiK/Projects/blob/main/Data%20Cleaning.sql)
 
 Deloitte's Data Analysics Job Simulation
 
 Tools: Excel, Tableau 
 
-- It was incredibly useful to understand what it might be like to be part of THE team at Deloitte. I was able to analyse data and create a dashboard. I practised using Tableau AND Excel and built my data analysis skills in a real-world context.Clean, organize and visualize data. Doing this program confirmed that I really enjoy working on technology problems
+* It was incredibly useful to understand what it might be like to be part of THE team at Deloitte. I was able to analyse data and create a dashboard. I practised using Tableau AND Excel and built my data analysis skills in a real-world context.Clean, organize and visualize data. Doing this program confirmed that I really enjoy working on technology problems
 for clients.
 
 (https://www.theforage.com/completioncertificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_eurH87dw74X9LtXoj_1764785380576_completion_certificate.pdf) 
@@ -53,5 +55,5 @@ for clients.
   Contact Me
   Phone Number: 0682701655 /0639232766 
   Email: nmngadik@gmail.com
-  LinkedIn: https://www.linkedin.com/in/nomcebo-m-250173210?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+  LinkedIn: (https://www.linkedin.com/in/nomcebo-m-250173210?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android app) 
   
