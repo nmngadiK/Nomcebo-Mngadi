@@ -1,8 +1,8 @@
 👋 Hi, I am Nomcebo Mngadi
 
-Data Analyst 
+Aspiring Data Analyst 
 
-Turning data into Insights
+Turning raw data into Insights and 
 
 Welcome to my data analytics portfolio
 I am passionate about using data to solve real world problems and helping businesses make informed decisions
@@ -24,9 +24,11 @@ Excel Bike Sales Dashboard
 Tool: Microsoft Excel
 
 * Collected, organised, and input structured and unstructured datasets into Excel.
-* Applied cleansing techniques to remove duplicates, corrected formats and correct errors.
-* Conducted reconciliation checks to identify and resolve discrepancies.
-* Generated a dashboard in Excel highlighting outcomes. 
+* Applied cleansing techniques to remove duplicates, corrected formats. 
+* Conducted reconciliation checks to identify and resolve discrepancies such as errors. 
+* Generated a dashboard in Excel highlighting project outcomes.
+* I identified demographic trends such as middle-aged professionals as the primary buyers and identified purchasing patterns within the age bracket.
+* Recommendation : The marketing department should mainly target middle age customers especially high income male customers as they are more likely to purchase. 
 (https://1drv.ms/x/c/2e05564730148638/IQD5t9OJeTMnRJmaye3vY8JcAd1g4s5ZiAhwfP1UMFdpHD8?e=FbVZqw&nav=MTVfezkxRjM3MUUzLTI4MzYtNERENS1CQ0I2LTcwN0ZBNDgyRjQzRn0) 
 
 Data Cleaning with SQL 
