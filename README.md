@@ -1,6 +1,7 @@
 👋 Hi, I am Nomcebo Mngadi
 
 Data Analyst 
+
 Turning data into Insights
 
 Welcome to my data analytics portfolio
@@ -21,10 +22,10 @@ Featured Projects:
 Excel Bike Sales Dashboard
 Tool: Microsoft Excel
 
-* Collected, organised, and input structured and unstructured datasets into SQL databases and Excel.
+* Collected, organised, and input structured and unstructured datasets into Excel.
 * Applied cleansing techniques to remove duplicates, corrected formats and correct errors.
 * Conducted reconciliation checks to identify and resolve discrepancies.
-* Generated reports in Excel highlighting data quality metrics and project outcomes.
+* Generated a dashboard in Excel highlighting outcomes. 
 (https://1drv.ms/x/c/2e05564730148638/IQD5t9OJeTMnRJmaye3vY8JcAd1g4s5ZiAhwfP1UMFdpHD8?e=FbVZqw&nav=MTVfezkxRjM3MUUzLTI4MzYtNERENS1CQ0I2LTcwN0ZBNDgyRjQzRn0) 
 
 Data Cleaning with SQL 
