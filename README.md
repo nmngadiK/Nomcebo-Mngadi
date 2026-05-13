@@ -29,7 +29,7 @@ Tool: Microsoft Excel
 * Generated a dashboard in Excel highlighting project outcomes.
 * I identified demographic trends such as middle-aged professionals as the primary buyers and identified purchasing patterns within the age bracket.
 * Recommendation : The marketing department should mainly target middle age customers especially high income male customers as they are more likely to purchase. 
-(https://1drv.ms/x/c/2e05564730148638/IQD5t9OJeTMnRJmaye3vY8JcAd1g4s5ZiAhwfP1UMFdpHD8?e=FbVZqw&nav=MTVfezkxRjM3MUUzLTI4MzYtNERENS1CQ0I2LTcwN0ZBNDgyRjQzRn0) 
+(https://1drv.ms/x/c/2e05564730148638/IQC8WznKHpHHTLP4edZJ66XFAetvgiBdzkNlNMT17Xs8qmo?e=3CWhWt) 
 
 Data Cleaning with SQL 
 
